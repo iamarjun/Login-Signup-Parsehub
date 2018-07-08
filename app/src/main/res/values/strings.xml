@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instagram-Parsehub</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="login_link">Have an account? Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_link">Don\'t have an account? Sign up</string>
+    <string name="insta_logo">Instagram</string>
+    <string name="message">Welcome to Instagram</string>
+    <string name="splash">Splash Screen</string>
+</resources>
